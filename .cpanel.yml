@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - /bin/cp -R ./* /home/kwebtech/ci-test-live/
+    - /bin/cp -R ./* /home/kwebtech/ci-cpanel-live/
